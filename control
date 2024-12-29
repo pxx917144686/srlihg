@@ -1,0 +1,9 @@
+Package: com.srlihg
+Name: srlihg
+Version: 0.1
+Architecture: arm64 arm
+Depends: mobilesubstrate, firmware (>= 14.0)
+Description: 水君 牛逼
+Author: pxx917144686
+Maintainer: Nets
+Section: pxx-Tweaks
